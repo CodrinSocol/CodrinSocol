@@ -28,7 +28,7 @@
 
 <br/>
 
-<h1 align="center"> Personal Roadmap </h1>
+<h1 align="center"> :rocket: Personal Roadmap :rocket: </h1>
 
 ## :desktop_computer: Experience 
 ### ![FA](/images/fa-logo.png) Software Engineer • [Feedback-Analytics](https://feedback-analytics.com/)  *(2021 - Present)*
