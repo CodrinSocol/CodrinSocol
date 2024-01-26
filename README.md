@@ -46,16 +46,17 @@
 ## :man_student: Education
 ### ![TU Delft](/images/tudelft-logo.png) Computer Science & Engineering • [Delft University of Technology](https://www.tudelft.nl/en/) *(2020 - 2023)*
 :round_pushpin: Delft, The Netherlands
+<hr/>
 - Bachelor Degree (BSc)
 - GPA: 8.2/10
 - Specialization: Data 
 - Extra Course work: *Leadership in a Complex World* (part of the Honours Programme)
 ### ![LeidenUniversity](/images/leiden-logo.jpg) Science, Business & Innovation • [Leiden University](https://www.universiteitleiden.nl/en) *(2022 - 2023)*
-:round_pushpin: Leiden, The Netherlands
+<hr/> :round_pushpin: Leiden, The Netherlands
 - Minor Degree 
 - GPA: 8.1/10
 ### ![CNMV](/images/cnmv-logo.png) High School Diploma • [Mihai Viteazul National College](https://www.cnmv.ro/) *(2016 - 2020)*
-:round_pushpin: Bucharest, Romania
+<hr/> :round_pushpin: Bucharest, Romania
 - Specialization: Mathematics & Computer Science
 - GPA: 9.1/10
 - Final Examination Grade *(Romanian Baccalaureate)*: 9.31/10
