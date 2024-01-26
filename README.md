@@ -17,12 +17,22 @@
 [![Skills & Technologies Used](https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker,tailwind,prisma,vercel,angular)](https://skillicons.dev)
 
 <br/>
-<h1 style="text-align: center"> Personal Roadmap </h1>
+
+### Find me online:
+
+[//]: # (TODO ADD IMAGES HERE)
+- [LinkedIn](https://www.linkedin.com/in/codrinsocol/)
+- [Instagram](https://www.instagram.com/codrin.socol/)
+- [LeetCode](https://leetcode.com/codrin-socol/)
+
+
+<br/>
+
+<h1 align="center"> Personal Roadmap </h1>
 
 ## :desktop_computer: Experience 
 ### ![FA](/images/fa-logo.png) Software Engineer • [Feedback-Analytics](https://feedback-analytics.com/)  *(2021 - Present)*
 
-### ![TU Delft](/images/tudelft-logo.png) BSc Computer Science & Engineering • [Delft University of Technology](https://www.tudelft.nl/en/) *(2018 - 2021)*
 
 ## :man_student: Education
 ### ![TU Delft](/images/tudelft-logo.png) [Bachelor Degree] Computer Science & Engineering • [Delft University of Technology](https://www.tudelft.nl/en/) *(2020 - 2023)*
