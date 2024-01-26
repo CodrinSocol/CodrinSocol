@@ -6,13 +6,17 @@
 
 :mortar_board: BSc Computer Science & Engineering @ [Delft University of Technology](https://www.tudelft.nl/en/)
 
+<br/>
+
 ### Programming Languages:
 [![Skills & Technologies Used](https://skillicons.dev/icons?i=ts,python,java,scala,cpp)](https://skillicons.dev)
+
+<br/>
 
 ### Frameworks, Libraries & Technologies:
 [![Skills & Technologies Used](https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker,tailwind,prisma,vercel,angular)](https://skillicons.dev)
 
-
+<br/>
 <h1 style="text-align: center"> Personal Roadmap </h1>
 
 ## :desktop_computer: Experience 
