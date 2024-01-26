@@ -61,7 +61,7 @@
 
 ## :bar_chart: Projects
 
-### - (2023) *Non-Monotonicity in Empirical Learning Curves: Identifying non-monotonicity through slope approximations on discrete points*
+### • (2023) *Non-Monotonicity in Empirical Learning Curves: Identifying non-monotonicity through slope approximations on discrete points*
 - Bachelor Thesis Research Project
 - Grade: 9/10
 - Paper: [repository.tudelft.nl](https://repository.tudelft.nl/islandora/object/uuid:3b7f24c8-08a9-4641-be82-38b880ac6898)
