@@ -32,7 +32,16 @@
 
 ## :desktop_computer: Experience 
 ### ![FA](/images/fa-logo.png) Software Engineer • [Feedback-Analytics](https://feedback-analytics.com/)  *(2021 - Present)*
+- ...
+- ...
+### ![LeidenUniversity](/images/leiden-logo.jpg) Student Assistant | AI Developer • [Leiden University](https://www.universiteitleiden.nl/en) *(2023 - 2024)*
+- ...
+- ...
+### ![TU Delft](/images/tudelft-logo.png) Teaching Assistant • [Delft University of Technology](https://www.tudelft.nl/en/) *(2022 - 2023)*
+- ...
+- ...
 
+<br/>
 
 ## :man_student: Education
 ### ![TU Delft](/images/tudelft-logo.png) Computer Science & Engineering • [Delft University of Technology](https://www.tudelft.nl/en/) *(2020 - 2023)*
@@ -48,5 +57,11 @@
 - GPA: 9.1/10
 - Final Examination Grade *(Romanian Baccalaureate)*: 9.31/10
 
+<br/>
 
+## :bar_chart: Projects
 
+### 1. (2023) *Non-Monotonicity in Empirical Learning Curves: Identifying non-monotonicity through slope approximations on discrete points*
+- Bachelor Thesis Research Project
+- Grade: 9/10
+- Paper: [repository.tudelft.nl](https://repository.tudelft.nl/islandora/object/uuid:3b7f24c8-08a9-4641-be82-38b880ac6898)
