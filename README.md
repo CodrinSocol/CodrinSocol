@@ -7,19 +7,24 @@
 
 <br/>
 
-<div style="display: flex; align-items: center;">
 <div>
-<h3>Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=ts,python,java,scala,cpp" alt="Programming Languages"/>
-
-[//]: # (<br/>)
-<h3>Frameworks, Libraries & Technologies</h3>
-<img  src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker" alt="Technologies"/>
-<img  src="https://skillicons.dev/icons?i=tailwind,prisma,vercel,angular" alt="Technologies 2"/>
+    <p>
+     <h3>Programming Languages</h3>
+        <div>
+            <h3>Programming Languages</h3>
+            <img src="https://skillicons.dev/icons?i=ts,python,java,scala,cpp" alt="Programming Languages"/>
+            <h3>Frameworks, Libraries & Technologies</h3>
+            <img  src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker" alt="Technologies"/>
+            <img  src="https://skillicons.dev/icons?i=tailwind,prisma,vercel,angular" alt="Technologies 2"/>
+        </div>
+        <img  src="https://leetcard.jacoblin.cool/codrin-socol" alt="LeetCode Stats"/>
+    </p>
 </div>
-<img  src="https://leetcard.jacoblin.cool/codrin-socol" alt="LeetCode Stats"/>
 
-</div>
+
+
+
+
 
 [//]: # (### Programming Languages:)
 
