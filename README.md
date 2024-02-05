@@ -7,13 +7,30 @@
 
 <br/>
 
-### Programming Languages:
-[![Programing Languages](https://skillicons.dev/icons?i=ts,python,java,scala,cpp)](https://skillicons.dev)
+<div style="display: flex; align-items: center;">
+<div>
+<h3>Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=ts,python,java,scala,cpp" alt="Programming Languages"/>
 
-<br/>
+[//]: # (<br/>)
+<h3>Frameworks, Libraries & Technologies</h3>
+<img  src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker" alt="Technologies"/>
+<img  src="https://skillicons.dev/icons?i=tailwind,prisma,vercel,angular" alt="Technologies 2"/>
+</div>
+<img  src="https://leetcard.jacoblin.cool/codrin-socol" alt="LeetCode Stats"/>
 
-### Frameworks, Libraries & Technologies:
-[![Skills & Technologies Used](https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker,tailwind,prisma,vercel,angular)](https://skillicons.dev)
+</div>
+
+[//]: # (### Programming Languages:)
+
+[//]: # ([![Programing Languages]&#40;&#41;]&#40;https://skillicons.dev&#41;)
+
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (### Frameworks, Libraries & Technologies:)
+
+[//]: # ([![Skills & Technologies Used]&#40;&#41;]&#40;https://skillicons.dev&#41;)
 
 <br/>
 
@@ -22,7 +39,7 @@
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/codrin-socol?ext=activity)](https://leetcode.com/codrin-socol/)
+[//]: # ([![Leetcode Stats]&#40;https://leetcard.jacoblin.cool/codrin-socol?ext=activity&#41;]&#40;https://leetcode.com/codrin-socol/&#41;)
 
 
 <br/>
