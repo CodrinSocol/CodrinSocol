@@ -1,15 +1,14 @@
-<h2> Hi there, I'm Codrin!
-</h2>
+<h2> Hi there, I'm Codrin!</h2>
 
 :briefcase: Software Engineer @ [Feedback-Analytics](https://feedback-analytics.com/)
-<br>
+
 
 :mortar_board: BSc Computer Science & Engineering @ [Delft University of Technology](https://www.tudelft.nl/en/)
 
 <br/>
 
 ### Programming Languages:
-[![Skills & Technologies Used](https://skillicons.dev/icons?i=ts,python,java,scala,cpp)](https://skillicons.dev)
+[![Programing Languages](https://skillicons.dev/icons?i=ts,python,java,scala,cpp)](https://skillicons.dev)
 
 <br/>
 
@@ -19,11 +18,11 @@
 <br/>
 
 ### Find me online:
+[![Social Links](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/codrinsocol/) [![Skills & Technologies Used](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/codrin.socol/)
 
-[//]: # (TODO ADD IMAGES HERE)
-- [LinkedIn](https://www.linkedin.com/in/codrinsocol/)
-- [Instagram](https://www.instagram.com/codrin.socol/)
-- [LeetCode](https://leetcode.com/codrin-socol/)
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/codrin-socol?ext=activity)](https://leetcode.com/codrin-socol/)
 
 
 <br/>
