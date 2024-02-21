@@ -1,11 +1,13 @@
 <h1 align="center"> :rocket: Personal Roadmap :rocket: </h1>
 
 ## :desktop_computer: Experience
-### ![FA](/images/fa-logo.png) Software Engineer • [Feedback-Analytics](https://feedback-analytics.com/)  *(2022 - Present)*
-- ...
-- ...
+### ![FA](/images/fa-logo.png) Fullstack Software Engineer • [Feedback-Analytics](https://feedback-analytics.com/)  *(2022 - Present)*
+- Designed, built and deployed a ReactJS/NodeJS system that automatically collects data from users using custom-built forms/surveys and third-party API providers. The data is then used to display and generate various analytics reports for our clients.
+    - *Technologies used: ReactJS, NextJS, NodeJS, Docker, PostgreSQL, Prisma, TailwindCSS, Vercel & many open-sourced React Components*
 ### ![LeidenUniversity](/images/leiden-logo.jpg) Student Assistant | AI Developer • [Leiden University](https://www.universiteitleiden.nl/en) *(2023 - 2024)*
-- ...
+- Designed and Built an AI Automatic Grader, that uses the [ChatGPT API](https://openai.com) to provide AI-generated textual feedback and numeric grade to student answers, given a model rubric and/or model answer.
+    - *Technologies used: Python, NumPy, Pandas, OpenAI API*
+- Helped with course work such as designing lecture materials and grading student assignments & projects, for the course 'AI for Business' from the *Science, Business and Innovation* Minor Programme.
 - ...
 ### ![TU Delft](/images/tudelft-logo.png) Teaching Assistant • [Delft University of Technology](https://www.tudelft.nl/en/) *(2022 - 2023)*
 - ...
