@@ -1,11 +1,11 @@
 <h2> Hi there, I'm Codrin!</h2>
 
-:briefcase: Software Engineer @ [Feedback-Analytics](https://feedback-analytics.com/)
+:briefcase: Software Engineer @ [Feedback-Analytics](https://feedback-analytics.com/).
 
 
-:mortar_board: BSc Computer Science & Engineering @ [Delft University of Technology](https://www.tudelft.nl/en/)
+:mortar_board: BSc Computer Science & Engineering @ [Delft University of Technology](https://www.tudelft.nl/en/).
 
-:page_facing_up: Check out my [resume](/CV.md)
+:page_facing_up: Check out my [resume](/CV.md).
 <br/>
 
 ### Programming Languages:
