@@ -19,7 +19,7 @@
 <br/>
 
 ### Find me online:
-[![Social Links](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/codrinsocol/) [![Skills & Technologies Used](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/codrin.socol/) [![Skills & Technologies Used](https://skillicons.dev/icons?i=gmail)](codrin.socol@gmail.com)
+[![Social Links](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/codrinsocol/) [![Skills & Technologies Used](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/codrin.socol/) [![Skills & Technologies Used](https://skillicons.dev/icons?i=gmail)](mailto:codrin.socol\@gmail.com)
 
 <br/>
 
