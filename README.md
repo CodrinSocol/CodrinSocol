@@ -9,12 +9,12 @@
 <br/>
 
 ### Programming Languages:
-[![Programing Languages](https://skillicons.dev/icons?i=ts,python,java,scala,cpp)](https://skillicons.dev)
+[![Programing Languages](https://skillicons.dev/icons?i=ts,cs,dart,python,java,scala,cpp)](https://skillicons.dev)
 
 <br/>
 
 ### Frameworks, Libraries & Technologies:
-[![Skills & Technologies Used](https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker,tailwind,prisma,vercel,angular)](https://skillicons.dev)
+[![Skills & Technologies Used](https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker,tailwind,prisma,vercel,dotnet,flutter,angular)](https://skillicons.dev)
 
 <br/>
 
