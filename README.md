@@ -15,7 +15,7 @@
 <br/>
 
 ### Frameworks, Libraries & Technologies:
-[![Skills & Technologies Used](https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker,tailwind,prisma,vercel,dotnet,flutter,angular)](https://skillicons.dev)
+[![Skills & Technologies Used](https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,docker,tailwind,prisma,vercel,dotnet,flutter,angular,spring,gradle)](https://skillicons.dev)
 
 <br/>
 
