@@ -11,6 +11,8 @@
   Outside work hours, I'm usually listening to music, gaming, traveling, hiking or skiing in the mountains, or learning new languages.
 </p>
 
+---
+
 :page_facing_up: [View my CV (PDF)](./CV.pdf)
 
 :briefcase: Software Engineer @ [Allseas Engineering](https://www.allseas.com/en).
@@ -21,17 +23,27 @@
 
 :mortar_board: BSc Computer Science & Engineering @ [Delft University of Technology](https://www.tudelft.nl/en/).
 
-<br/>
+---
 
 ### Programming Languages:
 [![Programing Languages](https://skillicons.dev/icons?i=ts,golang,python,java,scala,cpp)](https://www.linkedin.com/in/codrinsocol/)
 
-<br/>
-
 ### Frameworks, Libraries & Technologies:
 [![Skills & Technologies Used](https://skillicons.dev/icons?i=react,k8s,docker,nextjs,postgres,nodejs,docker,tailwind,prisma,vercel)](https://www.linkedin.com/in/codrinsocol/)
 
-<br/>
+---
+
+### Own Projects
+
+#### 1. BVB Dividends -> https://github.com/CodrinSocol/bvb-dividends
+
+A Go project for collecting, storing and displaying dividends from the Romanian Stock Exchange (BVB - Bursa de Valori Bucuresti). The main feature is providing a dividend calendar for investors to keep up to date with market developments and a modern REST API to serve up-to-date dividend information.
+
+#### 2. Automated Market Making Trading Agent for Crypto Futures ->  https://github.com/CodrinSocol/BIM-Master-Thesis
+
+Designed and developed an Automated Market Making Trading Agent for Crypto Perpetual Contracts using RandomForest Price Direction Prediction, based on L3 data from the Deribit Exchange. Simulated real-market environments (latency, order-fill models models etc.) on historical data using the [HFTBacktest](https://github.com/nkaz001/hftbacktest) library.
+
+--- 
 
 ### Open Source Contributions
 
@@ -48,6 +60,3 @@
 </i>
 
 <br/>
-
-### LeetCode Statistics:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/codrin-socol)](https://leetcode.com/codrin-socol/)
