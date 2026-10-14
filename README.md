@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CodrinSocol/CodrinSocol/blob/main/images/fortitude.jpg?raw=true" alt="Fortitude"/>
+  <img src="https://github.com/CodrinSocol/CodrinSocol/blob/main/assets/fortitude.jpg?raw=true" alt="Fortitude"/>
 </p>
 <h2> Hi there, I'm Codrin! 👋</h2>
 
