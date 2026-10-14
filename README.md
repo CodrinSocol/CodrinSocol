@@ -33,6 +33,10 @@
 
 ---
 
+![Metrics](./assets/metrics.svg)
+
+---
+
 ### Own Projects
 
 #### 1. BVB Dividends -> https://github.com/CodrinSocol/bvb-dividends
