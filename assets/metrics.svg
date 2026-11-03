@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>payloadcms/payload</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.</div>
@@ -537,7 +537,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2026, 19:10:13 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 4 Nov 2026, 00:47:16 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
